@@ -22,4 +22,4 @@ This project was developed as part of the course at Kenzie Academy Brasil (www.k
 I would like to express my gratitude to the instructors' team at Kenzie for providing the knowledge and support required for the completion of this project.
 
 ## Demo
-best-friends-rho.vercel.app
+https://best-friends-rho.vercel.app/
